@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently learning Kotlin and Flutter and all my projects are here. 
+I’m currently learning Kotlin and Flutter and all my projects are here. <br>
 I hope it would be usefull for you 🤩
 
 ### Contact with me;
