@@ -9,3 +9,4 @@ https://www.linkedin.com/in/bernademir/ </br>
 berna.demir90@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernademir)](https://github.com/bernademir/github-readme-stats)
+![Berna's github stats](https://github-readme-stats.vercel.app/api?username=bernademir)
