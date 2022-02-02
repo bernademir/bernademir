@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I’m currently learning Kotlin and Flutter. <br> 
-All of my projects are here. <br>
+I’m interested in mobile programming with Kotlin and Flutter. <br> 
 
 ### Contact with me;
 https://www.linkedin.com/in/bernademir/ </br>
